@@ -1,0 +1,5 @@
+age=int(input())
+if age:
+    print("Hi")
+else:
+    print(False)
